@@ -1,0 +1,151 @@
+patient_id,name,age,sex,bmi,glycemic_status,hba1c,fasting_glucose,diabetes_duration_years,on_metformin,on_insulin,on_sglt2,family_history,tcf7l2_alleles,kcnj11_alleles,sbp,hypertension,on_antihypertensive,ldl,egfr,city
+GT-001,Ananya Singh,52,Female,20.8,Type 2 diabetes,7.7,156.0,7.4,1,0,0,0,1,1,140.0,1,1,117.0,98.0,Delhi
+GT-002,Vihaan Singh,34,Male,25.6,Type 2 diabetes,7.8,172.0,4.8,1,0,0,1,0,1,138.0,1,1,164.0,84.0,Ahmedabad
+GT-003,Reyansh Nair,50,Male,25.4,Type 2 diabetes,9.0,196.0,7.0,1,1,0,1,1,0,119.0,0,0,166.0,98.0,Chennai
+GT-004,Arjun Reddy,49,Male,24.9,Type 2 diabetes,8.0,164.0,4.2,1,0,0,1,0,1,156.0,1,1,113.0,83.0,Kolkata
+GT-005,Pooja Singh,43,Female,21.3,Prediabetes,6.4,119.0,0.0,0,0,0,1,0,1,147.0,1,0,120.0,88.0,Hyderabad
+GT-006,Lakshmi Patel,44,Female,28.5,Type 2 diabetes,7.8,152.0,3.5,1,0,0,0,0,1,151.0,1,1,81.0,76.0,Hyderabad
+GT-007,Lakshmi Iyer,45,Female,30.4,Type 2 diabetes,8.3,176.0,9.7,1,1,0,1,1,1,151.0,1,1,164.0,86.0,Bengaluru
+GT-008,Aisha Nair,41,Female,25.6,Type 2 diabetes,8.8,207.0,8.6,1,1,1,0,0,1,141.0,1,1,121.0,85.0,Ahmedabad
+GT-009,Vihaan Kulkarni,36,Male,32.4,Prediabetes,6.1,120.0,0.0,1,0,0,1,1,0,161.0,1,0,176.0,102.0,Hyderabad
+GT-010,Arjun Banerjee,37,Male,25.7,Type 2 diabetes,8.8,197.0,7.0,1,0,1,0,2,2,153.0,1,0,104.0,120.0,Delhi
+GT-011,Navya Gupta,42,Female,21.2,Type 2 diabetes,8.0,193.0,4.2,1,0,0,0,1,1,148.0,1,0,152.0,88.0,Mumbai
+GT-012,Vihaan Menon,52,Male,29.1,Type 2 diabetes,8.9,194.0,4.4,1,1,0,0,0,1,114.0,0,0,95.0,95.0,Bengaluru
+GT-013,Vihaan Gupta,32,Male,28.1,Type 2 diabetes,8.9,199.0,4.0,1,1,1,0,2,1,141.0,1,0,141.0,105.0,Hyderabad
+GT-014,Arjun Das,46,Male,25.1,Type 2 diabetes,8.4,177.0,3.9,1,1,0,1,1,0,120.0,0,0,99.0,92.0,Ahmedabad
+GT-015,Ishaan Khan,30,Male,28.8,Type 2 diabetes,9.3,211.0,13.1,1,1,0,1,1,1,117.0,0,0,150.0,95.0,Bengaluru
+GT-016,Vihaan Shetty,52,Male,23.2,Type 2 diabetes,9.1,180.0,12.1,1,0,0,0,0,0,146.0,1,0,79.0,98.0,Delhi
+GT-017,Diya Gupta,43,Female,26.7,Type 2 diabetes,9.1,184.0,4.8,1,1,1,0,1,0,158.0,1,1,131.0,97.0,Hyderabad
+GT-018,Vihaan Nair,40,Male,28.9,Prediabetes,6.2,121.0,0.0,0,0,0,0,0,0,154.0,1,0,153.0,99.0,Ahmedabad
+GT-019,Kabir Banerjee,48,Male,21.2,Type 2 diabetes,7.7,168.0,2.3,1,0,0,0,0,1,142.0,1,0,129.0,85.0,Chennai
+GT-020,Kabir Patel,53,Male,26.4,Type 2 diabetes,7.4,171.0,5.0,1,0,1,1,0,0,149.0,1,1,139.0,80.0,Delhi
+GT-021,Sara Nair,43,Female,28.7,Type 2 diabetes,8.9,191.0,4.8,1,0,1,1,0,1,137.0,1,0,104.0,109.0,Kolkata
+GT-022,Meera Menon,36,Female,24.7,Type 2 diabetes,7.4,144.0,8.6,1,0,0,1,1,0,131.0,1,0,108.0,88.0,Mumbai
+GT-023,Meera Menon,37,Female,31.9,Type 2 diabetes,8.0,169.0,0.4,1,0,0,0,0,1,141.0,1,0,130.0,102.0,Chennai
+GT-024,Dev Joshi,40,Male,27.9,Type 2 diabetes,6.8,137.0,0.9,0,0,0,1,0,0,160.0,1,0,141.0,101.0,Pune
+GT-025,Aarav Chowdhury,31,Male,25.6,Prediabetes,6.0,121.0,0.0,0,0,0,1,1,0,149.0,1,1,148.0,89.0,Kolkata
+GT-026,Zoya Khan,35,Female,37.3,Type 2 diabetes,7.0,147.0,7.7,1,0,0,1,0,1,148.0,1,0,145.0,79.0,Kolkata
+GT-027,Aarav Khan,33,Male,23.9,Prediabetes,6.1,115.0,0.0,0,0,0,0,1,1,135.0,1,0,127.0,108.0,Mumbai
+GT-028,Aditya Khan,40,Male,20.8,Prediabetes,6.4,128.0,0.0,0,0,0,0,1,1,135.0,1,0,127.0,107.0,Delhi
+GT-029,Ishaan Patel,39,Male,22.4,Prediabetes,6.1,129.0,0.0,0,0,0,1,1,0,146.0,1,0,122.0,111.0,Mumbai
+GT-030,Navya Reddy,48,Female,24.1,Type 2 diabetes,9.6,236.0,7.4,1,0,0,0,2,2,140.0,1,0,98.0,83.0,Pune
+GT-031,Diya Iyer,55,Female,29.3,Type 2 diabetes,8.5,194.0,2.2,1,1,0,0,1,0,154.0,1,0,123.0,106.0,Bengaluru
+GT-032,Sara Shetty,41,Female,29.6,Type 2 diabetes,7.5,156.0,6.3,0,0,0,0,0,0,148.0,1,0,121.0,82.0,Bengaluru
+GT-033,Lakshmi Iyer,48,Female,27.0,Type 2 diabetes,6.5,121.0,4.7,1,0,0,1,0,1,149.0,1,0,113.0,81.0,Hyderabad
+GT-034,Arjun Banerjee,52,Male,31.6,Type 2 diabetes,9.2,204.0,9.1,1,1,0,1,1,1,144.0,1,0,138.0,95.0,Bengaluru
+GT-035,Meera Menon,36,Female,28.0,Type 2 diabetes,9.0,187.0,0.4,1,0,0,1,0,1,137.0,1,0,162.0,89.0,Mumbai
+GT-036,Kiara Khan,37,Female,29.7,Type 2 diabetes,8.3,175.0,4.7,1,1,1,0,0,0,149.0,1,1,143.0,83.0,Bengaluru
+GT-037,Zoya Menon,45,Female,26.6,Type 2 diabetes,6.5,122.0,5.8,1,0,0,0,2,2,139.0,1,0,144.0,104.0,Pune
+GT-038,Aditya Iyer,43,Male,29.7,Prediabetes,6.1,119.0,0.0,0,0,0,1,0,0,126.0,0,0,120.0,81.0,Ahmedabad
+GT-039,Arjun Kulkarni,32,Male,19.5,Type 2 diabetes,8.7,180.0,6.3,1,0,0,1,1,1,129.0,0,0,86.0,101.0,Mumbai
+GT-040,Rahul Banerjee,49,Male,21.5,Type 2 diabetes,7.7,176.0,5.7,1,0,0,0,1,0,138.0,1,1,124.0,89.0,Chennai
+GT-041,Aarav Joshi,30,Male,26.7,Type 2 diabetes,7.1,168.0,8.9,1,0,0,0,2,1,147.0,1,0,71.0,96.0,Delhi
+GT-042,Arjun Kulkarni,46,Male,25.7,Type 2 diabetes,7.5,164.0,7.1,1,0,1,1,1,0,152.0,1,0,186.0,109.0,Ahmedabad
+GT-043,Dev Das,48,Male,23.0,Prediabetes,6.2,114.0,0.0,0,0,0,0,2,0,143.0,1,0,128.0,92.0,Bengaluru
+GT-044,Lakshmi Patel,36,Female,29.8,Type 2 diabetes,9.6,197.0,6.6,1,0,0,0,1,2,148.0,1,0,151.0,67.0,Chennai
+GT-045,Zoya Chowdhury,50,Female,32.4,Prediabetes,6.0,110.0,0.0,0,0,0,0,0,0,157.0,1,0,110.0,91.0,Kolkata
+GT-046,Ishaan Menon,40,Male,24.1,Type 2 diabetes,7.6,175.0,9.7,1,0,0,1,1,1,131.0,1,1,111.0,96.0,Pune
+GT-047,Navya Gupta,34,Female,22.6,Type 2 diabetes,8.6,182.0,7.2,1,1,0,1,0,0,152.0,1,0,156.0,94.0,Kolkata
+GT-048,Ishaan Menon,41,Male,29.6,Type 2 diabetes,9.3,202.0,4.9,1,0,0,1,0,0,121.0,0,0,95.0,107.0,Chennai
+GT-049,Aarav Gupta,38,Male,26.7,Type 2 diabetes,6.9,115.0,2.6,1,0,0,0,1,1,148.0,1,1,124.0,93.0,Kolkata
+GT-050,Arjun Singh,43,Male,27.7,Prediabetes,6.4,133.0,0.0,0,0,0,1,1,0,161.0,1,0,141.0,81.0,Delhi
+GT-051,Vihaan Banerjee,45,Male,31.6,Type 2 diabetes,6.5,143.0,8.1,0,0,0,1,0,0,148.0,1,1,132.0,103.0,Pune
+GT-052,Pooja Banerjee,39,Female,27.5,Prediabetes,5.8,114.0,0.0,0,0,0,0,1,0,139.0,1,0,125.0,112.0,Bengaluru
+GT-053,Ananya Joshi,45,Female,31.2,Type 2 diabetes,9.2,215.0,7.2,1,1,0,0,1,1,122.0,0,0,141.0,108.0,Delhi
+GT-054,Aisha Chowdhury,55,Female,28.4,Prediabetes,6.3,103.0,0.0,0,0,0,1,0,0,153.0,1,1,141.0,88.0,Kolkata
+GT-055,Reyansh Sharma,55,Male,28.9,Type 2 diabetes,8.8,181.0,3.9,1,0,0,0,0,0,108.0,0,0,139.0,87.0,Mumbai
+GT-056,Rahul Chowdhury,44,Male,23.1,Type 2 diabetes,8.3,171.0,3.8,0,0,0,0,0,2,140.0,1,0,59.0,93.0,Delhi
+GT-057,Arjun Patel,49,Male,23.6,Type 2 diabetes,8.3,191.0,11.5,1,0,1,0,0,2,140.0,1,0,146.0,71.0,Mumbai
+GT-058,Sara Sharma,39,Female,27.8,Type 2 diabetes,7.8,144.0,0.8,1,0,0,0,0,0,125.0,0,0,84.0,83.0,Pune
+GT-059,Ananya Banerjee,55,Female,28.3,Type 2 diabetes,8.6,159.0,7.0,1,0,0,1,2,1,127.0,0,0,142.0,98.0,Delhi
+GT-060,Aisha Sharma,42,Female,24.9,Type 2 diabetes,9.2,179.0,4.6,1,0,0,0,0,0,140.0,1,0,110.0,100.0,Pune
+GT-061,Rahul Sharma,43,Male,31.6,Prediabetes,6.2,125.0,0.0,1,0,0,1,0,0,119.0,0,0,160.0,106.0,Mumbai
+GT-062,Imran Singh,41,Male,29.2,Prediabetes,5.9,126.0,0.0,0,0,0,0,0,0,143.0,1,1,144.0,97.0,Delhi
+GT-063,Rahul Chowdhury,40,Male,28.7,Prediabetes,5.9,116.0,0.0,1,0,0,1,0,1,145.0,1,0,137.0,99.0,Ahmedabad
+GT-064,Zoya Kulkarni,50,Female,22.6,Type 2 diabetes,7.6,159.0,5.1,1,0,0,1,0,0,150.0,1,0,114.0,90.0,Chennai
+GT-065,Lakshmi Kulkarni,48,Female,23.3,Type 2 diabetes,8.3,192.0,2.9,1,0,0,0,2,0,148.0,1,1,110.0,90.0,Delhi
+GT-066,Aditya Banerjee,45,Male,22.3,Type 2 diabetes,9.1,182.0,0.4,1,1,0,1,0,0,149.0,1,1,132.0,104.0,Ahmedabad
+GT-067,Diya Patel,45,Female,25.4,Type 2 diabetes,7.7,168.0,1.7,1,0,0,1,0,1,138.0,1,0,142.0,81.0,Delhi
+GT-068,Pooja Patel,50,Female,26.6,Prediabetes,6.2,122.0,0.0,1,0,0,1,0,0,135.0,1,1,133.0,83.0,Chennai
+GT-069,Pooja Shetty,46,Female,28.4,Type 2 diabetes,6.5,134.0,6.1,1,0,0,1,0,0,133.0,1,1,159.0,98.0,Ahmedabad
+GT-070,Reyansh Das,38,Male,22.6,Type 2 diabetes,8.1,176.0,6.6,1,0,0,0,2,0,136.0,1,1,124.0,114.0,Mumbai
+GT-071,Kabir Iyer,34,Male,35.7,Type 2 diabetes,7.8,182.0,7.4,1,0,0,1,1,1,134.0,1,0,111.0,69.0,Delhi
+GT-072,Arjun Singh,51,Male,31.3,Type 2 diabetes,9.2,191.0,6.2,1,0,1,0,0,1,141.0,1,1,116.0,106.0,Delhi
+GT-073,Navya Singh,53,Female,22.8,Type 2 diabetes,8.2,180.0,4.0,1,1,0,0,1,0,143.0,1,1,128.0,94.0,Delhi
+GT-074,Ananya Iyer,35,Female,28.8,Prediabetes,6.1,122.0,0.0,0,0,0,0,2,2,114.0,0,0,151.0,102.0,Pune
+GT-075,Kabir Sharma,54,Male,24.3,Type 2 diabetes,7.9,156.0,12.0,1,0,0,0,2,0,136.0,1,0,127.0,77.0,Mumbai
+GT-076,Pooja Khan,38,Female,27.9,Type 2 diabetes,7.1,139.0,2.4,1,0,0,1,0,0,141.0,1,1,126.0,94.0,Pune
+GT-077,Reyansh Das,50,Male,26.2,Prediabetes,5.7,113.0,0.0,0,0,0,0,0,0,142.0,1,0,110.0,92.0,Pune
+GT-078,Reyansh Sharma,38,Male,22.1,Type 2 diabetes,6.9,160.0,2.0,1,0,0,1,1,0,118.0,0,0,159.0,96.0,Pune
+GT-079,Aditya Gupta,43,Male,28.0,Type 2 diabetes,8.4,168.0,4.2,1,0,0,1,1,0,146.0,1,1,131.0,94.0,Pune
+GT-080,Kiara Menon,52,Female,29.5,Type 2 diabetes,6.5,122.0,0.4,1,0,0,1,0,1,142.0,1,1,121.0,83.0,Pune
+GT-081,Kabir Joshi,48,Male,23.9,Type 2 diabetes,7.0,131.0,6.3,1,0,0,0,2,1,135.0,1,0,89.0,97.0,Hyderabad
+GT-082,Aarav Menon,33,Male,22.7,Type 2 diabetes,6.6,114.0,4.2,1,0,0,0,1,2,142.0,1,1,110.0,97.0,Kolkata
+GT-083,Aditya Gupta,41,Male,29.5,Type 2 diabetes,8.9,184.0,0.4,1,1,0,1,1,0,142.0,1,1,159.0,107.0,Delhi
+GT-084,Ishaan Singh,40,Male,26.0,Type 2 diabetes,8.8,203.0,0.4,1,1,0,0,0,0,131.0,1,0,118.0,96.0,Chennai
+GT-085,Reyansh Chowdhury,50,Male,19.7,Type 2 diabetes,9.1,206.0,5.9,1,1,0,0,1,1,119.0,0,0,132.0,76.0,Pune
+GT-086,Sara Banerjee,33,Female,23.1,Prediabetes,6.2,110.0,0.0,1,0,0,1,0,0,159.0,1,1,106.0,99.0,Bengaluru
+GT-087,Sara Patel,47,Female,29.6,Type 2 diabetes,7.9,155.0,4.5,1,0,0,0,0,0,146.0,1,1,97.0,89.0,Pune
+GT-088,Rahul Sharma,40,Male,23.0,Prediabetes,6.2,129.0,0.0,0,0,0,1,0,1,117.0,0,0,168.0,94.0,Mumbai
+GT-089,Aarav Banerjee,35,Male,26.2,Prediabetes,6.3,121.0,0.0,1,0,0,1,0,1,158.0,1,0,145.0,97.0,Ahmedabad
+GT-090,Dev Reddy,35,Male,22.6,Type 2 diabetes,8.3,163.0,6.8,1,0,0,1,1,0,146.0,1,1,126.0,106.0,Chennai
+GT-091,Zoya Shetty,49,Female,24.7,Type 2 diabetes,7.6,136.0,9.3,1,0,1,1,1,0,135.0,1,0,115.0,100.0,Chennai
+GT-092,Reyansh Iyer,48,Male,30.0,Type 2 diabetes,7.9,166.0,9.0,1,0,0,1,0,2,129.0,0,0,136.0,104.0,Kolkata
+GT-093,Zoya Chowdhury,44,Female,25.7,Type 2 diabetes,7.2,138.0,14.7,1,0,1,0,1,0,140.0,1,1,139.0,81.0,Hyderabad
+GT-094,Aisha Banerjee,38,Female,23.1,Type 2 diabetes,6.8,125.0,11.4,1,0,0,0,0,0,119.0,0,0,141.0,73.0,Kolkata
+GT-095,Rahul Kulkarni,44,Male,29.6,Type 2 diabetes,8.9,210.0,8.4,1,1,1,1,1,0,147.0,1,1,106.0,101.0,Kolkata
+GT-096,Aisha Banerjee,41,Female,25.9,Prediabetes,6.2,130.0,0.0,0,0,0,1,0,0,148.0,1,1,101.0,112.0,Chennai
+GT-097,Reyansh Das,43,Male,25.5,Prediabetes,5.9,108.0,0.0,1,0,0,1,1,1,139.0,1,1,115.0,82.0,Chennai
+GT-098,Kiara Menon,32,Female,19.5,Type 2 diabetes,9.6,211.0,9.5,1,1,1,0,0,0,139.0,1,1,85.0,95.0,Pune
+GT-099,Meera Iyer,39,Female,28.4,Type 2 diabetes,9.3,222.0,0.4,0,1,1,0,1,1,133.0,1,0,112.0,103.0,Chennai
+GT-100,Imran Khan,34,Male,26.3,Type 2 diabetes,7.3,170.0,0.6,1,0,1,1,1,0,147.0,1,0,184.0,96.0,Chennai
+GT-101,Ishaan Shetty,38,Male,27.6,Type 2 diabetes,6.5,93.0,10.5,1,0,0,1,0,1,133.0,1,0,133.0,80.0,Chennai
+GT-102,Sara Chowdhury,53,Female,29.7,Type 2 diabetes,9.1,199.0,0.4,0,1,0,0,0,2,139.0,1,1,133.0,103.0,Hyderabad
+GT-103,Vihaan Sharma,52,Male,30.2,Type 2 diabetes,9.3,223.0,0.4,1,1,0,1,1,0,140.0,1,1,120.0,81.0,Delhi
+GT-104,Aarav Menon,50,Male,25.4,Type 2 diabetes,7.8,151.0,0.4,1,0,0,1,0,1,155.0,1,0,88.0,77.0,Delhi
+GT-105,Diya Kulkarni,33,Female,27.6,Type 2 diabetes,9.5,206.0,5.3,1,1,1,1,0,0,142.0,1,0,133.0,85.0,Kolkata
+GT-106,Rahul Nair,54,Male,27.1,Type 2 diabetes,7.9,178.0,2.7,1,0,0,0,1,1,113.0,0,0,128.0,91.0,Bengaluru
+GT-107,Dev Nair,36,Male,26.9,Type 2 diabetes,7.0,139.0,12.5,1,0,0,1,1,1,119.0,0,0,132.0,104.0,Chennai
+GT-108,Navya Chowdhury,33,Female,24.7,Type 2 diabetes,8.1,154.0,8.8,1,0,0,1,0,0,125.0,0,0,167.0,101.0,Ahmedabad
+GT-109,Meera Patel,53,Female,23.9,Prediabetes,5.9,104.0,0.0,1,0,0,0,1,1,134.0,1,0,90.0,102.0,Pune
+GT-110,Arjun Reddy,31,Male,24.9,Type 2 diabetes,7.4,143.0,7.6,1,0,0,1,0,1,148.0,1,1,131.0,106.0,Delhi
+GT-111,Aisha Khan,51,Female,26.3,Type 2 diabetes,8.9,200.0,9.1,1,1,1,0,2,1,155.0,1,0,117.0,79.0,Kolkata
+GT-112,Ishaan Nair,37,Male,28.3,Type 2 diabetes,6.5,119.0,3.4,1,0,0,0,0,2,130.0,0,0,100.0,113.0,Pune
+GT-113,Pooja Shetty,54,Female,30.8,Type 2 diabetes,8.7,171.0,6.5,1,1,0,1,1,1,152.0,1,0,157.0,98.0,Hyderabad
+GT-114,Zoya Menon,35,Female,25.5,Type 2 diabetes,8.8,177.0,7.0,1,0,0,1,1,0,128.0,0,0,121.0,88.0,Chennai
+GT-115,Lakshmi Nair,51,Female,27.6,Type 2 diabetes,7.0,141.0,6.0,1,0,1,0,0,1,154.0,1,1,107.0,99.0,Ahmedabad
+GT-116,Aarav Patel,47,Male,20.8,Type 2 diabetes,7.2,154.0,6.7,1,0,0,0,1,0,143.0,1,1,110.0,100.0,Hyderabad
+GT-117,Pooja Reddy,33,Female,27.6,Type 2 diabetes,6.5,123.0,8.9,1,0,0,0,1,0,124.0,0,0,124.0,93.0,Chennai
+GT-118,Imran Das,30,Male,26.8,Type 2 diabetes,7.2,149.0,11.1,1,0,0,1,0,1,129.0,0,0,139.0,91.0,Kolkata
+GT-119,Aditya Khan,49,Male,27.8,Type 2 diabetes,7.8,162.0,7.3,1,0,1,0,0,0,137.0,1,0,96.0,104.0,Hyderabad
+GT-120,Sara Kulkarni,44,Female,29.1,Type 2 diabetes,7.9,155.0,4.7,0,0,1,1,0,0,138.0,1,1,131.0,87.0,Kolkata
+GT-121,Aarav Patel,51,Male,25.7,Type 2 diabetes,8.8,180.0,9.4,1,1,0,1,1,0,125.0,0,0,146.0,114.0,Hyderabad
+GT-122,Ananya Banerjee,36,Female,28.3,Type 2 diabetes,9.6,220.0,4.5,1,0,0,1,0,0,113.0,0,0,101.0,106.0,Ahmedabad
+GT-123,Meera Chowdhury,40,Female,27.4,Prediabetes,6.0,116.0,0.0,0,0,0,1,0,0,160.0,1,1,119.0,106.0,Ahmedabad
+GT-124,Aarav Joshi,37,Male,19.5,Type 2 diabetes,6.5,123.0,2.1,1,0,0,0,1,2,152.0,1,0,129.0,103.0,Chennai
+GT-125,Aisha Gupta,54,Female,30.0,Type 2 diabetes,8.2,149.0,0.4,1,0,0,1,0,1,126.0,0,0,126.0,99.0,Delhi
+GT-126,Dev Iyer,39,Male,30.3,Type 2 diabetes,8.0,164.0,6.6,1,0,0,1,0,0,146.0,1,1,120.0,99.0,Mumbai
+GT-127,Aisha Shetty,54,Female,26.1,Type 2 diabetes,9.1,172.0,9.8,0,0,0,1,0,0,139.0,1,1,142.0,97.0,Ahmedabad
+GT-128,Aditya Iyer,53,Male,33.2,Type 2 diabetes,8.2,192.0,6.5,1,0,1,1,0,0,154.0,1,1,115.0,89.0,Mumbai
+GT-129,Meera Singh,49,Female,27.6,Type 2 diabetes,9.5,174.0,6.5,0,0,0,0,1,0,159.0,1,1,162.0,115.0,Delhi
+GT-130,Vihaan Chowdhury,51,Male,27.9,Type 2 diabetes,7.7,174.0,3.9,1,0,0,1,0,0,121.0,0,0,96.0,94.0,Mumbai
+GT-131,Dev Das,52,Male,23.8,Type 2 diabetes,8.9,188.0,9.6,1,1,0,1,1,0,147.0,1,0,94.0,85.0,Mumbai
+GT-132,Ishaan Shetty,44,Male,27.8,Type 2 diabetes,7.9,167.0,3.3,1,0,0,1,0,1,148.0,1,0,109.0,88.0,Chennai
+GT-133,Zoya Das,45,Female,26.5,Type 2 diabetes,7.1,156.0,3.9,1,0,1,0,0,0,145.0,1,1,66.0,98.0,Bengaluru
+GT-134,Ananya Das,50,Female,31.8,Type 2 diabetes,7.8,179.0,3.6,1,0,0,1,2,0,146.0,1,1,183.0,95.0,Bengaluru
+GT-135,Rahul Singh,39,Male,22.6,Type 2 diabetes,6.6,133.0,3.6,1,0,0,0,1,0,154.0,1,1,141.0,90.0,Pune
+GT-136,Aditya Joshi,45,Male,29.4,Type 2 diabetes,7.3,161.0,1.9,1,0,0,1,1,2,141.0,1,0,135.0,98.0,Hyderabad
+GT-137,Kiara Nair,39,Female,31.4,Type 2 diabetes,6.5,127.0,6.6,1,0,0,1,1,0,145.0,1,1,146.0,105.0,Delhi
+GT-138,Arjun Menon,51,Male,31.0,Type 2 diabetes,8.6,206.0,0.4,1,1,1,0,1,2,141.0,1,1,157.0,105.0,Mumbai
+GT-139,Kabir Reddy,50,Male,26.7,Type 2 diabetes,7.6,153.0,6.7,1,0,1,0,0,1,146.0,1,1,117.0,84.0,Pune
+GT-140,Reyansh Joshi,47,Male,33.2,Type 2 diabetes,7.8,154.0,4.9,0,0,0,0,0,1,145.0,1,1,141.0,92.0,Mumbai
+GT-141,Arjun Shetty,50,Male,29.5,Prediabetes,5.9,104.0,0.0,1,0,0,1,0,2,150.0,1,1,84.0,84.0,Chennai
+GT-142,Lakshmi Chowdhury,40,Female,26.3,Type 2 diabetes,8.6,195.0,6.9,1,0,1,0,1,0,138.0,1,0,73.0,102.0,Ahmedabad
+GT-143,Vihaan Khan,44,Male,21.6,Prediabetes,5.8,119.0,0.0,0,0,0,0,2,0,135.0,1,1,130.0,83.0,Ahmedabad
+GT-144,Vihaan Nair,33,Male,26.1,Type 2 diabetes,7.2,129.0,0.4,1,0,0,0,1,1,153.0,1,1,121.0,112.0,Ahmedabad
+GT-145,Imran Patel,47,Male,26.8,Type 2 diabetes,6.9,161.0,5.9,1,0,0,0,1,0,143.0,1,0,109.0,83.0,Bengaluru
+GT-146,Reyansh Gupta,37,Male,23.9,Type 2 diabetes,7.5,176.0,4.2,1,0,0,1,1,0,145.0,1,1,137.0,110.0,Bengaluru
+GT-147,Imran Reddy,48,Male,30.7,Prediabetes,5.9,118.0,0.0,0,0,0,1,1,2,136.0,1,0,99.0,91.0,Delhi
+GT-148,Vihaan Iyer,35,Male,30.4,Type 2 diabetes,6.5,119.0,9.3,1,0,0,1,0,2,139.0,1,1,123.0,108.0,Kolkata
+GT-149,Arjun Patel,40,Male,30.4,Type 2 diabetes,9.7,217.0,0.6,1,0,0,1,0,0,145.0,1,0,149.0,101.0,Mumbai
+GT-150,Meera Joshi,40,Female,28.9,Type 2 diabetes,7.5,146.0,7.2,1,0,0,1,0,0,148.0,1,1,161.0,110.0,Delhi

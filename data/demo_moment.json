@@ -1,0 +1,20 @@
+{
+  "spike": {
+    "label": "Predicted spike while glucose is still in range",
+    "patient_id": "GT-140",
+    "timestamp": "2026-09-09T08:00:00",
+    "glucose_mgdl": 116.8,
+    "hyper_proba": 0.9612447160966555,
+    "future_peak": 268.5,
+    "predicted_peak": 217.04270297001867
+  },
+  "calm": {
+    "label": "Quiet hour",
+    "patient_id": "GT-041",
+    "timestamp": "2026-09-12T01:00:00",
+    "glucose_mgdl": 78.4,
+    "hyper_proba": 0.00017370833900469653,
+    "future_peak": 108.4,
+    "predicted_peak": 110.72626732024297
+  }
+}
